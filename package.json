@@ -8,6 +8,7 @@
     "url": "git@github.com:gosquared/twitter-oauth.git"
   },
   "dependencies": {
-    "oauth": "~0.9.7"
+    "oauth": "~0.9.7",
+    "request": "2.27.0"
   }
 }
